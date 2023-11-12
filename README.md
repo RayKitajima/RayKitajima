@@ -1,5 +1,7 @@
 #### OpenTicketAgency
 
+Open Ticket Agency is an open source code base for smart contracts and reference web applications that implement ticketing systems on the Ethereum blockchain.
+
 - 🎟️ [TicketAgencyContracts](https://github.com/RayKitajima/TicketAgencyContracts)
 - ⚙️ [AgencyDeployer](https://github.com/RayKitajima/AgencyDeployer)
 - 📱 [AgencyApp](https://github.com/RayKitajima/AgencyApp)
