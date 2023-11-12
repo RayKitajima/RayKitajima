@@ -1,5 +1,7 @@
 ### 📻 Radio Starlight
 
+![image](starlight.png)
+
 Radio Starlight is the reinvention of radio. Your personalized voice talks about your songs and the latest news. Get summarized news updates read to you and have them seamlessly woven into your music experience. 
 
 - ✨ https://radio-starlight.com
