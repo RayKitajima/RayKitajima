@@ -26,7 +26,7 @@ craftkit is a cutting-edge library designed for imperative programming on the we
 
 --- 
 
-Acknowledgements for Images in the diagram: 
+Acknowledgements for Images in the diagram:  
 <a target="_blank" href="https://icons8.com/icon/81TSi6Gqk0tm/music">Music</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> / 
 <a target="_blank" href="https://icons8.com/icon/13841/rss">Feed</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> / 
 <a target="_blank" href="https://icons8.com/icon/63807/website">Web</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> / 
