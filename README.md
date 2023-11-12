@@ -9,8 +9,6 @@ Radio Starlight is the reinvention of radio. Your personalized voice talks about
 
 ### 🎫 OpenTicketAgency
 
-![image](banner.png)
-
 Open Ticket Agency is an open source code base for smart contracts and reference web applications that implement ticketing systems on the Ethereum blockchain.
 
 - ⚡️ [TicketAgencyContracts](https://github.com/RayKitajima/TicketAgencyContracts)
