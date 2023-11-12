@@ -18,7 +18,6 @@ Open Ticket Agency is an open source code base for smart contracts and reference
 ### CraftKit
 
 Write web apps as if they're native apps!  
-
 craftkit is a cutting-edge library designed for imperative programming on the web, harnessing the power of the Shadow DOM.
 
 ⚡️ [craft-uikit](https://github.com/craftkit/craft-uikit) ⚡️ [Bootloader](https://github.com/craftkit/craft-bootloader) ⚡️ [NavigationGroup](https://github.com/craftkit/craft-widget-navigationgroup) ⚡️ [StickyHeaderNavi](https://github.com/craftkit/craft-widget-stickyheadernavi)  
