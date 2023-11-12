@@ -14,3 +14,13 @@ Open Ticket Agency is an open source code base for smart contracts and reference
 - ⚡️ [TicketAgencyContracts](https://github.com/RayKitajima/TicketAgencyContracts)
 - ⚡️ [AgencyDeployer](https://github.com/RayKitajima/AgencyDeployer)
 - ⚡️ [AgencyApp](https://github.com/RayKitajima/AgencyApp)
+
+--- 
+
+Acknowledgements for Images in the diagram: 
+<a target="_blank" href="https://icons8.com/icon/81TSi6Gqk0tm/music">Music</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> / 
+<a target="_blank" href="https://icons8.com/icon/13841/rss">Feed</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> / 
+<a target="_blank" href="https://icons8.com/icon/63807/website">Web</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> / 
+<a target="_blank" href="https://icons8.com/icon/21895/rest-api">Rest API</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> / 
+<a target="_blank" href="https://icons8.com/icon/12793/radio">Radio</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> / 
+<a target="_blank" href="https://icons8.com/icon/12376/advance">Advance</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> 
