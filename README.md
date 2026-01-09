@@ -6,21 +6,3 @@ Radio Starlight is the reinvention of radio. Your personalized voice talks about
 
 ✨ [Radio Starlight Project Page](https://github.com/RayKitajima/RadioStarlight)  
 ✨ [Radio Starlight Catalog Service](https://github.com/RayKitajima/StarlightCatalogService)
-
-### OpenTicketAgency
-
-Open Ticket Agency is an open source code base for smart contracts and reference web applications that implement ticketing systems on the Ethereum blockchain.
-
-⚡️ [TicketAgencyContracts](https://github.com/RayKitajima/TicketAgencyContracts)  
-⚡️ [AgencyDeployer](https://github.com/RayKitajima/AgencyDeployer)  
-⚡️ [AgencyApp](https://github.com/RayKitajima/AgencyApp)  
-
-### CraftKit
-
-Write web apps as if they're native apps!  
-craftkit is a cutting-edge library designed for imperative programming on the web, harnessing the power of the Shadow DOM.
-
-⚡️ [craft-uikit](https://github.com/craftkit/craft-uikit) ⚡️ [Bootloader](https://github.com/craftkit/craft-bootloader) ⚡️ [NavigationGroup](https://github.com/craftkit/craft-widget-navigationgroup) ⚡️ [StickyHeaderNavi](https://github.com/craftkit/craft-widget-stickyheadernavi)  
-⚡️ [Toast](https://github.com/craftkit/craft-widget-toast) ⚡️ [Calendar](https://github.com/craftkit/craft-widget-calendar) ⚡️ [QuickTools](https://github.com/craftkit/craft-widget-quicktools)  
-⚡️ [Playground](https://github.com/craftkit/craftkit-playground)  
-
